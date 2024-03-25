@@ -11,9 +11,10 @@ While in a rendered scene the camera can move around freely or with a key press 
 ---
 ### How To Run  
 
-1. To run this project download project, code.
-2. Open project in Visual Studio.
-3. Run project.
+1. Fork the project into your REPO.
+2. Download the project code/REPO to your PC.
+3. Open the project in Visual Studio.
+4. Build and run the project.
 
 ---
 ### Controls
